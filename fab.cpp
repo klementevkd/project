@@ -1,6 +1,6 @@
 #include<iostream>
 
 int main() {
-    std::cout<< "Тут пишешь фибаначи";
+    std::cout<< "поменяли по заданию код";
     return 0;
 }
